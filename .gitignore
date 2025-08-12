@@ -4,3 +4,10 @@
 .idea
 models
 tests
+.vscode
+__pycache__
+.bash_history
+.cursor-server
+.windsurf-server
+.wget-hsts
+.vscode-server
